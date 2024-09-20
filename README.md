@@ -1,6 +1,12 @@
 ## Hi there 👋
+## Boas vindas ao meu perfil
+## Meu nome é Gustavo
+## Estou estudando na [Alura](https://www.alura.com.br)
+## Voce entrar em contato comigo
 
-<!--
+00001115541729sp@.aluno.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/RzSPDIqkgoIAAAAC/goku-dragon-ball-z.gif)
 **GuKIng999/Guking999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
